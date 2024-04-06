@@ -54,6 +54,9 @@
 .p-20 {
     padding: 20px;
 }
+.c-pointer{
+    cursor: pointer;
+}
 
 .Accordian {
     border: 1px solid #0000001A;
